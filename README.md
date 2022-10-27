@@ -23,6 +23,10 @@
   <p align="center">
     Made using @react-three/cannon, @react-three/fiber, Zustand.
     </p>
+  <p align="center">
+    ↓ Preview ↓
+    </p>
+<img src="https://imgur.com/s5Hk8ps.png" alt="Logo" width="100%" height="100%">
 </div>
 
 ### Built With
