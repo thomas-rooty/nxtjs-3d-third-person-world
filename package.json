@@ -1,0 +1,37 @@
+{
+  "name": "penguin-icefield",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/cannon": "^6.3.0",
+    "@react-three/drei": "^9.7.2",
+    "@react-three/fiber": "^8.8.7",
+    "@react-three/postprocessing": "^2.3.2",
+    "@splinetool/loader": "^0.9.93",
+    "@splinetool/r3f-spline": "^1.0.1",
+    "lodash-es": "^4.17.21",
+    "next": "^12.3.1",
+    "postprocessing": "^6.26.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.145.0",
+    "zustand": "^4.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "babel-loader": "^8.2.5",
+    "chromatic": "^6.7.4",
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.6",
+    "eslint-plugin-storybook": "^0.6.4",
+    "next-transpile-modules": "^9.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "penguin-icefield@0.1.0"
+}
