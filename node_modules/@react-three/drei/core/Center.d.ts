@@ -1,0 +1,30 @@
+import { Group } from 'three';
+import * as React from 'react';
+export declare type OnCenterCallbackProps = {
+    parent: THREE.Object3D;
+    container: THREE.Object3D;
+    width: number;
+    height: number;
+    depth: number;
+    boundingBox: THREE.Box3;
+    boundingSphere: THREE.Sphere;
+    center: THREE.Vector3;
+    verticalAlignment: number;
+    horizontalAlignment: number;
+    depthAlignment: number;
+};
+declare type CenterProps = JSX.IntrinsicElements['group'] & {
+    top?: boolean;
+    right?: boolean;
+    bottom?: boolean;
+    left?: boolean;
+    front?: boolean;
+    back?: boolean;
+    disableX?: boolean;
+    disableY?: boolean;
+    disableZ?: boolean;
+    precise?: boolean;
+    onCentered?: (props: OnCenterCallbackProps) => void;
+};
+export declare const Center: React.ForwardRefExoticComponent<Pick<CenterProps, "visible" | "attach" | "args" | "children" | "key" | "onUpdate" | "position" | "up" | "scale" | "rotation" | "matrix" | "quaternion" | "layers" | "dispose" | "type" | "isGroup" | "id" | "uuid" | "name" | "parent" | "modelViewMatrix" | "normalMatrix" | "matrixWorld" | "matrixAutoUpdate" | "matrixWorldNeedsUpdate" | "castShadow" | "receiveShadow" | "frustumCulled" | "renderOrder" | "animations" | "userData" | "customDepthMaterial" | "customDistanceMaterial" | "isObject3D" | "onBeforeRender" | "onAfterRender" | "applyMatrix4" | "applyQuaternion" | "setRotationFromAxisAngle" | "setRotationFromEuler" | "setRotationFromMatrix" | "setRotationFromQuaternion" | "rotateOnAxis" | "rotateOnWorldAxis" | "rotateX" | "rotateY" | "rotateZ" | "translateOnAxis" | "translateX" | "translateY" | "translateZ" | "localToWorld" | "worldToLocal" | "lookAt" | "add" | "remove" | "removeFromParent" | "clear" | "getObjectById" | "getObjectByName" | "getObjectByProperty" | "getWorldPosition" | "getWorldQuaternion" | "getWorldScale" | "getWorldDirection" | "raycast" | "traverse" | "traverseVisible" | "traverseAncestors" | "updateMatrix" | "updateMatrixWorld" | "updateWorldMatrix" | "toJSON" | "clone" | "copy" | "addEventListener" | "hasEventListener" | "removeEventListener" | "dispatchEvent" | keyof import("@react-three/fiber/dist/declarations/src/core/events").EventHandlers | "left" | "right" | "bottom" | "top" | "disableX" | "disableY" | "disableZ" | "front" | "back" | "onCentered" | "precise"> & React.RefAttributes<Group>>;
+export {};
