@@ -5,7 +5,6 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Node.js Build](https://github.com/thomas-rooty/nxtjs-3d-third-person-world/actions/workflows/node.js.yml/badge.svg?branch=main&event=push)](https://github.com/thomas-rooty/nxtjs-3d-third-person-world/actions/workflows/node.js.yml)
 
 <!-- PROJECT LOGO -->
 <br />
