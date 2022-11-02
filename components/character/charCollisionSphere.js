@@ -16,7 +16,7 @@ const CharCollisionSphere = () => {
   // Physics collision sphere
   const [collisionRef, collisionApi] = useSphere(() => ({
     mass: 1,
-    type: "Dynamic",
+    type: "Kinematic",
     position: [0, 0.5, 0],
     args: [0.5],
     allowSleep: false,
