@@ -5,12 +5,12 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Node.js Build](https://github.com/thomas-rooty/3d-portfolio/actions/workflows/node.js.yml/badge.svg?branch=main&event=push)](https://github.com/thomas-rooty/3d-portfolio/actions/workflows/node.js.yml)
+[![Node.js Build](https://github.com/thomas-rooty/nxtjs-3d-third-person-world/actions/workflows/node.js.yml/badge.svg?branch=main&event=push)](https://github.com/thomas-rooty/nxtjs-3d-third-person-world/actions/workflows/node.js.yml)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/thomas-rooty/tricycle-portfolio">
+  <a href="https://github.com/thomas-rooty/nxtjs-3d-third-person-world">
     <img src="https://www.freeiconspng.com/thumbs/3d-icon/3d-icon-0.png" alt="Logo" width="80" height="80">
   </a>
 
