@@ -54,7 +54,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/thomas-rooty/tricycle-portfolio.git
+   git clone https://github.com/thomas-rooty/nxtjs-3d-third-person-world.git
    ```
 2. Install NPM packages
    ```sh
@@ -94,7 +94,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Project Link: [https://github.com/thomas-rooty/tricycle-portfolio](https://github.com/thomas-rooty/nxtjs-3d-third-person-world)
+Project Link: [https://github.com/thomas-rooty/nxtjs-3d-third-person-world](https://github.com/thomas-rooty/nxtjs-3d-third-person-world)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -104,25 +104,25 @@ Project Link: [https://github.com/thomas-rooty/tricycle-portfolio](https://githu
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/thomas-rooty/tricycle-portfolio.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/thomas-rooty/nxtjs-3d-third-person-world.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/thomas-rooty/tricycle-portfolio/graphs/contributors
+[contributors-url]: https://github.com/thomas-rooty/nxtjs-3d-third-person-world/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/thomas-rooty/tricycle-portfolio.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/thomas-rooty/nxtjs-3d-third-person-world.svg?style=for-the-badge
 
-[forks-url]: https://github.com/thomas-rooty/tricycle-portfolio/network/members
+[forks-url]: https://github.com/thomas-rooty/nxtjs-3d-third-person-world/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/thomas-rooty/tricycle-portfolio.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/thomas-rooty/nxtjs-3d-third-person-world.svg?style=for-the-badge
 
-[stars-url]: https://github.com/thomas-rooty/tricycle-portfolio/stargazers
+[stars-url]: https://github.com/thomas-rooty/nxtjs-3d-third-person-world/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/thomas-rooty/tricycle-portfolio.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/thomas-rooty/nxtjs-3d-third-person-world.svg?style=for-the-badge
 
-[issues-url]: https://github.com/thomas-rooty/tricycle-portfolio/issues
+[issues-url]: https://github.com/thomas-rooty/nxtjs-3d-third-person-world/issues
 
 [license-shield]: https://img.shields.io/badge/license-MIT-blue?style=for-the-badge
 
-[license-url]: https://github.com/thomas-rooty/tricycle-portfolio/blob/production/LICENSE.md
+[license-url]: https://github.com/thomas-rooty/nxtjs-3d-third-person-world/blob/production/LICENSE.md
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
